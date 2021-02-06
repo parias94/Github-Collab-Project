@@ -1,0 +1,2 @@
+## Repository
+A Git **Repository** is the <code>\\.git</code> folder inside a project. **Repository** is basically tracks all changes made to files in your project, building a history over time. Meaning, if you delete the <code>\\.git</code> folder, then you delete your project’s history.
